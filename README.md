@@ -9,7 +9,8 @@
 
 - 👯 I’m looking to collaborate on **Portfolio Web**
 
-- 🤝 I’m looking for help with [LinkedIn](https:/www.linkedin.com/in/shahid-ameen-978636279/)
+- 🤝 I’m looking for help with [LinkedIn]https://www.linkedin.com/in/shahid-ameen-978636279/
+- 
 
 - 📫 How to reach me **shahidameen1275@gmail.com**
 
