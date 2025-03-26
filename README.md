@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahid1275&label=Profile%20views&color=0e75b6&style=flat" alt="shahid1275" /> </p>
 
-- 🔭 I’m currently working on **AttendEase**
+- 🔭 I’m currently working on **AttendEase** Project
 
 - 🌱 I’m currently learning **Advanced Web Technologies Like as MERN + NEXT.JS , Nest.js + SeamLess Animations making Tech Stack**
 
