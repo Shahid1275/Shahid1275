@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Software Developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently Persuing my internship at Virtual University company
+- 🔭 I’m currently Persuing my internship at Virtual University's company
 
 - 🌱 I’m currently learning **Advanced Web Technologies Like as MERN + NEXT.JS , + SeamLess Animations making Tech Stack**
 
