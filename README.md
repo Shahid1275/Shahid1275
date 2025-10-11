@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHAHID AMIN</h1>
-<h3 align="center">💻 Associate Software Engineer | Full Stack Developer | AI/ML Enthusiast | Tech Innovator from Pakistan 🇵🇰</h3>
+<h3 align="center">💻 Associate Software Engineer | Full Stack Developer | AI/ML Enthusiast | Tech Innovator from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
@@ -53,7 +53,6 @@
   <!-- New AI/ML Technologies -->
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/> </a>
   <a href="https://www.kaggle.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/> </a>
 </p>
 
