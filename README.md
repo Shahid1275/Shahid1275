@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm SHAHID AMIN</h1>
-<h3 align="center">💻 Associate Software Engineer | Full Stack Developer | Tech Enthusiast from Pakistan 🇵🇰</h3>
+<h3 align="center">💻 Associate Software Engineer | Full Stack Developer | AI/ML Enthusiast | Tech Innovator from Pakistan 🇵🇰</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 ---
 
 ### 🚀 About Me
-- 💼 I'm currently working as an **Associate Software Engineer (ASE)** at a **Software Tech company**  
-- 🌱 I’m enhancing my skills in **Advanced Web Technologies (MERN + Next.js)** and **Seamless UI Animations**
-- 💡 I love building **modern, responsive, and interactive web applications**
-- 👯 I’m open to collaborating on **portfolio or innovative web projects**
-- 🤝 Looking for mentorship and networking on **LinkedIn**
-- ⚡ Fun fact: I enjoy solving challenges that connect **logic, design, and user experience**
+- 💼 I'm currently working as an **Associate Software Engineer (ASE)** at **724.ONE Tech Company**
+- 🌱 I’m passionate about building web applications using the **MERN stack**, **Next.js**, and exploring **AI/ML** technologies to integrate intelligent features into applications.
+- 💡 I love building **modern, scalable, and responsive web applications** with seamless user experiences and cutting-edge features.
+- 👯 I’m open to collaborating on **AI/ML-powered apps** or innovative **portfolio projects**.
+- 🤝 Looking for mentorship and networking on **LinkedIn**.
+- ⚡ Fun fact: I thrive on solving complex challenges that combine **logic, creativity, and tech innovation**.
 
 ---
 
@@ -50,6 +50,11 @@
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+  <!-- New AI/ML Technologies -->
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/> </a>
+  <a href="https://www.kaggle.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/> </a>
 </p>
 
 ---
