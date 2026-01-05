@@ -60,7 +60,7 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahid1275&" alt="GitHub Streak" /></p>
+![GitHub Streak](https://streak-stats.demolab.com?user=shahid1275&theme=default&cache_seconds=86400)
 
 ---
 
