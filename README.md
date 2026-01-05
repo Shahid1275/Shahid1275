@@ -60,7 +60,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shahid1275&theme=default&cache_seconds=86400)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shahid1275)](https://github.com/shahid1275)
 
 ---
 
