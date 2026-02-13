@@ -147,36 +147,20 @@ const shahidAmin = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahid1275&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid1275&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahid1275&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid1275&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahid1275&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="700"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahid1275&theme=tokyonight&hide_border=true" width="700"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahid1275&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="900"/>
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahid1275&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="900"/>
-</div>
-
-<br/>
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahid1275&theme=tokyo-night&hide_border=true&area=true" width="900"/>
 </div>
 
 <br/>
@@ -195,7 +179,7 @@ const shahidAmin = {
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=%22Good+code+tells+a+clear+story.%22+%E2%80%93+Cory+House;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;Thanks+for+visiting!+Happy+Coding!+%F0%9F%9A%80" alt="Rotating Quotes"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Good+code+tells+a+clear+story.+%E2%80%93+Cory+House;First%2C+solve+the+problem.+Then%2C+write+the+code.+%E2%80%93+John+Johnson;Clean+code+always+looks+like+it+was+written+by+someone+who+cares.;Make+it+work%2C+make+it+right%2C+make+it+fast.+%E2%80%93+Kent+Beck;Code+is+read+more+often+than+it+is+written.+%E2%80%93+Guido+van+Rossum;Simplicity+is+the+soul+of+efficiency.+%E2%80%93+Austin+Freeman;Any+fool+can+write+code+that+a+computer+can+understand.;Good+programmers+write+code+that+humans+can+understand.;The+best+error+message+is+the+one+that+never+shows+up.;Experience+is+the+name+everyone+gives+to+their+mistakes.;Thanks+for+visiting!+Happy+Coding!+%F0%9F%9A%80"/>
 </h3>
 
 <div align="center">
