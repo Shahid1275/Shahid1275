@@ -13,8 +13,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahid1275&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shahid1275?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=shahid1275&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/shahid1275?label=Followers&style=for-the-badge&color=blue" />
 </p>
 
 ---
