@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+SHAHID+AMIN;Full+Stack+Developer;AI%2FML+Enthusiast;Tech+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+SHAHID+AMIN;Full+Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -39,15 +39,15 @@ const shahidAmin = {
       databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
       api: ["REST", "GraphQL"]
     },
-    aiMl: ["TensorFlow", "PyTorch", "Scikit-learn", "Pandas"],
+    exploring: ["Machine Learning", "Cloud Architecture", "System Design"],
     cloud: ["AWS", "Heroku", "Firebase"],
     tools: ["Git", "Docker", "Webpack", "VSCode"]
   },
   
-  currentFocus: "Building intelligent, scalable applications with AI/ML integration",
-  architecture: ["Microservices", "MVC", "Clean Architecture", "Domain-Driven Design"],
+  currentFocus: "Developing robust, scalable web applications and expanding technical expertise",
+  architecture: ["MVC", "RESTful Design", "Component-Based Architecture"],
   
-  challenge: "I thrive on solving complex problems that combine logic, creativity, and innovation"
+  philosophy: "Writing clean, maintainable code and solving real-world problems"
 };
 ```
 
@@ -56,21 +56,21 @@ const shahidAmin = {
 ## 💼 Professional Experience
 
 🔹 **Software Engineer** at **Developers Tag**  
-🔸 Building modern, scalable, and responsive web applications  
-🔸 Developing full-stack solutions using MERN stack and Next.js  
-🔸 Integrating AI/ML capabilities into production applications  
-🔸 Implementing clean code practices and enterprise-level architecture  
+🔸 Developing full-stack web applications using modern technologies  
+🔸 Working with MERN stack, Next.js, and TypeScript  
+🔸 Contributing to scalable and maintainable codebases  
+🔸 Applying best practices in software development and architecture  
 
 <br/>
 
 ## 🎯 Current Focus
 
-- 🌱 Deepening expertise in **AI/ML** technologies and their real-world applications
-- 🔭 Building **enterprise-grade applications** with cutting-edge tech stacks
-- 💡 Exploring **Cloud Architecture** and **DevOps** practices
-- 👯 Open to collaborate on **innovative AI/ML-powered projects**
-- 🤝 Seeking mentorship opportunities and professional networking
-- 📚 Continuous learning and staying updated with latest tech trends
+- 🌱 Expanding knowledge in **advanced web technologies** and **system design**
+- 🔭 Building **reliable and scalable applications** using modern frameworks
+- 💡 Learning **Cloud Architecture**, **DevOps**, and **Machine Learning** fundamentals
+- 👯 Open to collaborate on **challenging web development projects**
+- 🤝 Networking with professionals and learning from experienced developers
+- 📚 Committed to continuous learning and professional growth
 
 <br/>
 
